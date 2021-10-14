@@ -1,0 +1,2 @@
+# tryToWin
+Opisanie
